@@ -28,12 +28,6 @@
 jupyter lab or jupyter-notebook
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
-
 ## Author
 
 👤 **Chaitanya Rahalkar**
@@ -55,4 +49,3 @@ Copyright © 2019 [Chaitanya Rahalkar](https://github.com/chaitanyarahalkar).<br
 This project is [Apache-2.0](https://github.com/chaitanyarahalkar/Name-Generator-RNN/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
