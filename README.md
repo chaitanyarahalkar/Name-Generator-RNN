@@ -7,7 +7,7 @@
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
   </a>
-  <a href="https://github.com/chaitanyarahalkar/Name-Generator-RNN/blob/master/LICENSE">
+  <a href="https://raw.githubusercontent.com/chaitanyarahalkar/Name-Generator-RNN/master/LICENSE">
     <img alt="License: Apache-2.0" src="https://img.shields.io/badge/License-Apache-2.0-yellow.svg" target="_blank" />
   </a>
   <a href="https://twitter.com/chairahalkar">
@@ -19,14 +19,8 @@
 
 ### 🏠 [Homepage](https://github.com/chaitanyarahalkar/Name-Generator-RNN)
 
-## Prerequisites
-
-
-## Install
-
-```sh
-jupyter lab or jupyter-notebook
-```
+## Prerequisites 
+- Numpy (Install with Pip)
 
 ## Usage
 
