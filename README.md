@@ -7,11 +7,14 @@
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
   </a>
-  <a href="https://raw.githubusercontent.com/chaitanyarahalkar/Name-Generator-RNN/master/LICENSE">
-    <img alt="License: Apache-2.0" src="https://img.shields.io/badge/License-Apache-2.0-yellow.svg" target="_blank" />
+  <a href="https://github.com/chaitanyarahalkar/Name-Generator-RNN/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/chaitanyarahalkar/Name-Generator-RNN.svg" target="_blank" />
+  </a>
+  <a href="https://github.com/chaitanyarahalkar/Name-Generator-RNN/blob/master/LICENSE">
+    <img alt="License: Apache-2.0" src="https://img.shields.io/github/license/chaitanyarahalkar/Name-Generator-RNN.svg" />
   </a>
   <a href="https://twitter.com/chairahalkar">
-    <img alt="Twitter: chairahalkar" src="https://img.shields.io/twitter/follow/chairahalkar.svg?style=social" target="_blank" />
+    <img alt="Twitter: chairahalkar" src="https://img.shields.io/twitter/follow/chairahalkar.svg?style=social" target="_blank"/>
   </a>
 </p>
 
