@@ -11,7 +11,7 @@
     <img alt="Issues" src="https://img.shields.io/github/issues/chaitanyarahalkar/Name-Generator-RNN.svg" target="_blank" />
   </a>
   <a href="https://github.com/chaitanyarahalkar/Name-Generator-RNN/blob/master/LICENSE">
-    <img alt="License: Apache-2.0" src="https://img.shields.io/github/license/chaitanyarahalkar/Name-Generator-RNN.svg" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/chaitanyarahalkar/Name-Generator-RNN.svg" />
   </a>
   <a href="https://twitter.com/chairahalkar">
     <img alt="Twitter: chairahalkar" src="https://img.shields.io/twitter/follow/chairahalkar.svg?style=social" target="_blank"/>
