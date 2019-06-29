@@ -31,6 +31,19 @@
 jupyter lab or jupyter-notebook
 ```
 
+## Overview of the Model
+
+The model will have the following structure: 
+- Initialize parameters 
+- Run the optimization loop
+    - Forward propagation to compute the loss function
+    - Backward propagation to compute the gradients with respect to the loss function
+    - Clip the gradients to avoid exploding gradients
+    - Using the gradients, update your parameter with the gradient descent update rule.
+- Return the learned parameters 
+    
+<img src="rnn-2.png" style="width:450;height:300px;">
+
 ## Author
 
 👤 **Chaitanya Rahalkar**
