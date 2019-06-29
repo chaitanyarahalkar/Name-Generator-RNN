@@ -33,6 +33,7 @@ jupyter lab or jupyter-notebook
 
 ## Overview of the Model
 
+The model is a character level neural network. Instead of generating a new word based on the previous word, it generates a character.
 The model will have the following structure: 
 - Initialize parameters 
 - Run the optimization loop
