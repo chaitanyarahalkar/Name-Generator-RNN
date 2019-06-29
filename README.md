@@ -63,6 +63,6 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2019 [Chaitanya Rahalkar](https://github.com/chaitanyarahalkar).<br />
-This project is [Apache-2.0](https://github.com/chaitanyarahalkar/Name-Generator-RNN/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/chaitanyarahalkar/Name-Generator-RNN/blob/master/LICENSE) licensed.
 
 ***
